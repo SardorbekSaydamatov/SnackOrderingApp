@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC7hPwu46fgYBNhfZMn_eDb1IDgpQMxhJ0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>461337788118</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sardorbek.SnackOrdering</string>
+	<key>PROJECT_ID</key>
+	<string>snackordering-ca71b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>snackordering-ca71b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:461337788118:ios:46b1a0fd44de50dbe8d377</string>
+</dict>
+</plist>
